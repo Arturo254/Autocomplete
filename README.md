@@ -10,4 +10,4 @@ cd Autocomplete
  
 chmod 777 * ; chmod +x * 
 
-bash Autocomplete.sh 
+bash autocomplete.sh 

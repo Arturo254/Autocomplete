@@ -26,9 +26,28 @@
 							omf install zish
 
 
+
+figlet  -f future ENTER PARA INSTALAR EL BANNER
+
+sleep 3
+
+read -p "Enter "
+
+
+cd /data/data/com.termux/files/home/Autocomplete 
+
+
+mv /data/data/com.termux/files/home/Autocomplete/bash.bashrc ///data/data/com.termux/files/usr/etc
+
+
+
+
 							    sleep 3 
 
 									figlet -f future Finalizado  | lolcat
+
+cd
+
 
 
 										clear && bash

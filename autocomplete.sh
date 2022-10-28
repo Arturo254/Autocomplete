@@ -10,7 +10,7 @@
 	clear
 
 
-	 cd /data/data/com.termux/files/home/autocomplete
+	 cd /data/data/com.termux/files/home/Autocomplete
 
 		 lolcat box.cow 
  
@@ -23,7 +23,7 @@
 	
 						curl -L https://get.oh-my.fish | fish
 
-							omf install ocean 
+							omf install zish
 
 
 							    sleep 3 
